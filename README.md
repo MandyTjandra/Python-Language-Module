@@ -41,7 +41,7 @@ python3 --version
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Python-Language-Module.git
+git clone https://github.com/MandyTjandra/Python-Language-Module.git
 cd Python-Language-Module
 ```
 
